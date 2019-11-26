@@ -2,3 +2,5 @@
 __These implementations are for learning purposes. The solution would be provided in C, C++, Java or Python.__
 
 For contributing in the repository, Do read about [Contribution Guidelines](./Contributing.md).
+
+Contributed to the hacktober fest.
